@@ -10,11 +10,16 @@
 
 希望各位绅♂士在绅士之庭玩的开心！
 
-**下载：**[**Google Play**](https://play.google.com/store/apps/details?id=io.github.naco_siren.gmgard)
+**下载：**[**Google Play**](https://play.google.com/store/apps/details?id=io.github.naco_siren.gmgard)，[**百度手机助手**](https://mobile.baidu.com/item?docid=24657543)
 
 ## 功能
 
-用户登录、注销；博客浏览，博客搜索；博客收藏，博客评分；添加回复、赞/踩回复、富文本编辑器。
+* 用户登录、注销
+* 博客浏览，支持deeplink
+* 动态主题配色
+* 搜索、收藏、评分
+* 添加回复、赞/踩回复
+* 富文本编辑器
 
 ## 截屏
 
